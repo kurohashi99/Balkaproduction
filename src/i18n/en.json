@@ -17,12 +17,8 @@
     "DESCRIPTION": "About DESCRIPTION"
   },
   "NAVBAR": {
-    "PROJECTS": "Projects",
-    "ARTICLES": "Articles",
-    "BOOKSMARKS": "BooksMarks",
-    "EDUCATION_HUB": "Education Hub",
-    "FUN_HOBBIES": "Fun Hobbies",
-    "SHOP_NOW": "Shop Now"
+    "PROJECTS": "Retrouvez-nous ici ⬇️ ",
+    "SHOP_NOW": "Contactez Nous "
   },
   "PROJECTS": {
     "empty": {
