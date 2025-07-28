@@ -60,17 +60,19 @@ export const cardsData = [
      className: "custom-card-class-5",
       isNew: false
     },
-  // {
-  //   id: "card-3",
-  //   url: "creativex.io",
-  //   href: "https://creativex.io",
-  //   title: "CreativeX",
-  //   subtitle: "creativex.io",
-  //   imageSrc: "/img/projects/001.webp",
-  //   imageAlt: "CreativeX logo",
-  //   className: "custom-card-class-3",
-  //   isNew: false
-  // },
+
+      {
+     id: "card-6",
+     url: "https://t.snapchat.com/qKgNeWqt",
+     href: "https://t.snapchat.com/qKgNeWqt",
+     title: "Snapchat",
+     subtitle: "",
+      imageSrc: "/img/logo/snapchat.jpeg",
+      imageAlt: "App icone",
+     className: "custom-card-class-6",
+      isNew: false
+    },
+
   // {
   //   id: "card-4",
   //   url: "taskifyapp.com",
